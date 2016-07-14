@@ -1,0 +1,28 @@
+.blue-header{
+	margin-left:8px;
+    margin-top: 20px;
+    margin-bottom:10px;
+    background:#00264b url(../public/blue_16.jpg)no-repeat;
+    width: 100%;
+    height: 2px;
+    line-height: 2px;
+    overflow: hidden;
+    width:94%;
+}
+ul{
+padding:0px;
+margin: 0px;
+
+}
+ul li{
+padding:0px;
+float: left; 
+margin-top:10px;
+list-style: none;
+line-height:-8px;
+}
+div{
+	width: 100%;
+	
+    
+}
