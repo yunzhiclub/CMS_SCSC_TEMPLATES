@@ -8,6 +8,7 @@
     line-height: 2px;
     overflow: hidden;
     width:94%;
+
 }
 ul{
 padding:0px;
@@ -23,4 +24,26 @@ list-style: none;
 }
 div{
 	width: 100%;
+}
+#info li a{
+    
+    word-wrap:break-word;
+}
+h4{
+    white-space:nowrap;
+}
+#notice ul{
+    display: inline;
+}
+#notice ul li{
+    display:inline;
+    float: left;
+}
+#notice li p{
+   display: inline; float: left; word-wrap:break-word;width:166px;white-space:nowrap; text-overflow:ellipsis; -o-text-overflow:ellipsis; overflow:hidden;
+}
+#notice span{
+    line-height: 20px;
+color: #0d6ac6;
+font-family: "Arial Black", Gadget, sans-serif;display:inline;float: left;
 }
