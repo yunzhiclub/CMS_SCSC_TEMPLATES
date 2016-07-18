@@ -42,4 +42,7 @@ div{
 #second-right h3{color:blue; };
 #second-right img {float: left;position:relative;}
 
-
+#second-center-img{padding-left:0px;}
+#second-center-img h3{ padding-top:15px;background-color: #072c87;width:140px;height:58px;color: #fff;}
+#second-center-img ul li{ margin: 20px;padding:5px;background-color: #fff;width:290px;}
+#second-center-img ul li img{width:280px;height:186px;}
