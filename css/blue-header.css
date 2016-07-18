@@ -16,7 +16,7 @@ margin: 0px;
 }
 ul li{
 padding:0px;
-float: left; 
+ 
 margin:5px auto; 
 list-style: none;
 
@@ -31,4 +31,12 @@ div{
 
 #second-center{margin: 0;padding: 0px;}
 #second-center h3{ padding-top:15px;background-color: #072c87;width:140px;height:58px;color: #fff;}
-#second-center ul li{}
+#second-center ul li hr{ color: #fff; }
+#second-center ul li div{ padding:40px;padding-bottom:30px; }
+#second-center ul li div span{ display: inline;}
+#second-center ul li div h4{ display: inline;}
+#second-center ul li div div {padding: 0px;margin-top:7px;display: inline; margin-left:40px; }
+
+#second-right {background-color: #fff; float: none;position: relative;background-color:#fff;width:100%;margin-left:880px;margin-top:10px;width:250px;  }
+#second-right h3{color:blue; };
+
