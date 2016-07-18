@@ -24,3 +24,11 @@ list-style: none;
 div{
 	width: 100%;
 }
+#second-left{padding:0;margin-left:10px;margin-top: 10px; background-color: #fff;}
+#second-left h3{ margin-top: 0px;padding-top: 10px; }
+#second-left ul li{ float: none;padding:5px; margin:5px;}
+#second-left ul li a h5{ float: none; margin-top:5px;margin-top:5px;margin-left:auto;margin-right:auto;font-size:17px;  }
+
+#second-center{margin: 0;padding: 0px;}
+#second-center h3{ padding-top:15px;background-color: #072c87;width:140px;height:58px;color: #fff;}
+#second-center ul li{}
